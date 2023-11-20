@@ -9,7 +9,7 @@ Node.js y npm (Node Package Manager)
 Angular CLI (Command Line Interface)
 
 npm install -g @angular/cli
-git clone (https://github.com/diego1367/IrisFront)https://github.com/diego1367/IrisFront
+git clone https://github.com/diego1367/IrisFront
 
 npm install
 ng serve
